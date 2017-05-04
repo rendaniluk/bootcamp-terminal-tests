@@ -1,2 +1,2 @@
-language:node_js
-node js:-"v4.2.6"
+language: node_js
+node_js: "v4.2.6"
